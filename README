@@ -1,0 +1,11 @@
+# CONFIGURATION
+
+$ export SLACK_API_KEY=""
+
+# INSTALL
+
+$ ./install.sh
+
+# USAGE
+
+$ slack-notify send_msg 'STRING'
